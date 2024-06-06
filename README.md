@@ -1,0 +1,2 @@
+# metodenumerik
+metode iterasi
